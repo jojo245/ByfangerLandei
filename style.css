@@ -12,8 +12,6 @@ body {
   color: white;
   text-align: center;
   padding: 20px 10px 10px;
-  border-bottom-left-radius: 30px;
-  border-bottom-right-radius: 30px;
 }
 
 .header h1 {
@@ -28,8 +26,6 @@ body {
 }
 
 .logo {
-  margin: 20px auto;
-  border-radius: 16px;
   max-width: 100%;
   height: auto;
 }
