@@ -29,8 +29,9 @@ body {
 
 .logo {
   margin: 20px auto;
-  max-width:200 auto;
   border-radius: 16px;
+  max-width: 100%;
+  height: auto;
 }
 
 .subtitle {
